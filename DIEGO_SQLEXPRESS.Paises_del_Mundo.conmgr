@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DIEGO_SQLEXPRESS.Paises_del_Mundo"
+  DTS:DTSID="{83CC8F0E-E916-41CA-BFA2-697DAF0F49AE}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DIEGO\SQLEXPRESS;Initial Catalog=Paises_del_Mundo;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-CoreChallenge-{83CC8F0E-E916-41CA-BFA2-697DAF0F49AE}DIEGO\SQLEXPRESS.Paises_del_Mundo;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
